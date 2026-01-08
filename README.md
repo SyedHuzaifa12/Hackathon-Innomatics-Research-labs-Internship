@@ -60,4 +60,12 @@ This project is a **hackathon-based case study** focused on analyzing IMDb movie
 
 ---
 
-## 📁 Project Structure
+## 📌 Conclusion
+This hackathon case study highlights the ability to perform structured data analysis, derive insights quickly, and communicate findings effectively using Python and visualization tools.
+
+---
+
+## 📬 Contact
+**Huzaifa Syed**  
+🔗 GitHub: https://github.com/SyedHuzaifa12
+
