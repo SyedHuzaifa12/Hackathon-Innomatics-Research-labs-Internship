@@ -55,7 +55,7 @@ This project is a **hackathon-based case study** focused on analyzing IMDb movie
 
 ## 🚀 Business Impact
 - Supports **content strategy decisions** for OTT platforms and studios  
-- Helps identify **high-performing genres and trends**  
+- Helps identify **high-performing genres and trends**
 - Demonstrates analytical thinking in a **time-bound hackathon setting**  
 
 ---
